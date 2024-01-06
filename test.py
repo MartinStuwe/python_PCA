@@ -1,0 +1,7 @@
+from numpy import *
+
+a = [1, 2, 3]
+b = [1, 2, 3]
+
+c = numpy.dot(a, b)
+print(c)
